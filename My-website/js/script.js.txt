@@ -1,3 +1,0 @@
-function sayHello() {
-  alert("Szia, működök GitHub Pages-en! 🎉");
-}
